@@ -2,7 +2,7 @@
 
 exports[`<Main /> should render the heading 1`] = `
 <main
-  class="sc-beyTiQ hXNFOS"
+  class="sc-beyTiQ eFeEwK"
 >
   <h1>
     React boilerplate

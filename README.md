@@ -14,6 +14,7 @@ This project uses lot of stuff as:
 - [Eslint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [Husky](https://github.com/typicode/husky)
+- [Plop](https://github.com/typicode/husky](https://plopjs.com))
 
 ## Getting Started
 
@@ -34,11 +35,13 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - `dev`: runs your application on `localhost:3000`
 - `build`: creates the production build version
 - `start`: starts a simple server with the build production code
+- `generate`: generate a component
 - `lint`: runs the linter in all components and pages
 - `test`: runs jest to test all components and pages
 - `test:watch`: runs jest in watch mode
 - `storybook`: runs storybook on `localhost:6006`
 - `build-storybook`: create the build version of storybook
+
 
 ## Learn More
 
